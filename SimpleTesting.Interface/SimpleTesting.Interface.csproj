@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Authors>Matt Lacey</Authors>
+    <Copyright>Copyright 2019 Matt Lacey Limited</Copyright>
+    <Description>Helper functionality to make it easier to get started writing coded tests in .NET.</Description>
+    <PackageIconUrl></PackageIconUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mrlacey/simpletesting</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <Company>Matt Lacey Limited</Company>
+    <RepositoryUrl>https://github.com/mrlacey/simpletesting</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
