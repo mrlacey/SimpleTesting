@@ -33,7 +33,9 @@ public class SomeSimpleTests
 
 Any method that is public, takes no parameters, and return `bool` (or `Task<bool>`) will be treated as a test. Even static methods work.
 
-The class must have a parameterless constructor. Other than that, you can do what you like.
+The class must have a parameterless constructor. If one is added, it is called before each test as a new class instance is created for each test execution.
+
+Other than that, you can do what you like.
 
 All these are valid:
 
